@@ -16,15 +16,18 @@
     text-align: center;
   }
 
-#p1 {
+#blocktitle1 {
   background-color: #d59898;
   text-align: right;
   padding:5px;
   font-size: large;
-  border: 1px solid black;
-
- 
- 
+  border: 2px solid black;
+ position: relative;
+  float: right;
+  margin: 0;
+  top: 0;
+  right: 0;
+  width: auto;
 }
 
 #p2 {
@@ -32,9 +35,13 @@
   text-align: right;
   padding:5px;
   font-size: large;
-  color: #ffffff;
-  border: 1px solid black;
-  position: relative;
+  border: 2px solid black;
+ position: relative;
+  float: right;
+  margin: 0;
+  top: 0;
+  right: 0;
+  width: auto;
 }
 
 #p3 {
@@ -42,15 +49,22 @@
   text-align: right;
   padding:5px;
   font-size: large;
-  border: 1px solid black;
+  border: 2px solid black;
+ position: relative;
+  float: right;
+  margin: 0;
+  top: 0;
+  right: 0;
+  width: auto;
 }
 
   div {
     width: 30.2%;
-    border: 1px solid black;
+    border: 2px solid black;
     background-color: #999999;
     float: left;
     margin: 20px;
+    position: relative;
   }
   
  #div1 {
